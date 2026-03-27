@@ -39,7 +39,7 @@ python mqm_run.py --dataset wmt_ende --max_rounds 3   # max recall
 
 ```bash
 pip install -r requirements.txt
-echo "OPENAI_API_KEY=REMOVED_KEY-owpEwdMKlc9n1cru0tcyV1p71t8j27_cCz2tzf1dzLQuQdCh3-hNSarhe6VfI4Ut4m7BfxzFS8T3BlbkFJv1clB9riBDUEPWmHFiR6Msk7OhyQiDnRcDRD8BBG0lcRwHSAbHypU50t6wPlo-zlpcd-3pqp0A" > .env
+echo "OPENAI_API_KEY=Your_API_Key" > .env
 ```
 
 ---
