@@ -175,4 +175,3 @@ python mqm_run.py \
     --max_rounds 2
 ```
 The summary JSON will report Pearson/Spearman against human MQM scores.
->>>>>>> Agentic_AI_MT_Eval
