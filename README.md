@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Project_Eval
-=======
-# MQM Framework v2 — Setup & Run Guide
+# Framework — Setup & Run Guide
 
 ## Files
 
