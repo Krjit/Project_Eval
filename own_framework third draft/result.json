@@ -1,0 +1,210 @@
+{
+    "source": "The qualities that determine a subculture as distinct may be linguistic, aesthetic, religious, political, sexual, geographical, or a combination of factors.",
+    "mt": "वे गुण जो किसी उप-संस्कृति को अलग बनाते हैं, जैसे कि भाषा, सौंदर्य, धर्म, राजनीति, यौन, भूगोल या कई सारे कारकों का मिश्रण हो सकते हैं.",
+    "reference": "उपसंस्कृति को विशिष्ट रूप से निर्धारित करने वाले गुण भाषाई, सौंदर्य, धार्मिक, राजनीतिक, यौन, भौगोलिक या कारकों का संयोजन हो सकते हैं।",
+    "accuracyStage1": {
+        "probability": 0.3,
+        "reason": "The machine translated sentence includes the phrase 'किसी उप-संस्कृति को अलग बनाते हैं' which translates to 'makes a subculture distinct', while the reference uses 'विशिष्ट रूप से निर्धारित करने वाले गुण' meaning 'qualities that determine a subculture as distinct'. This indicates a slight mistranslation in the emphasis on 'determine' versus 'make distinct'.",
+        "confidence": 70.0
+    },
+    "fluencyStage1": {
+        "probability": 0.8,
+        "reason": "The machine translated sentence has a few fluency issues. For instance, 'किसी उप-संस्कृति को अलग बनाते हैं' is somewhat awkward compared to the more natural 'उपसंस्कृति को विशिष्ट रूप से निर्धारित करने वाले गुण'. Additionally, 'भूगोल' is less commonly used than 'भौगोलिक' in this context, which affects the overall fluency. The phrase 'या कई सारे कारकों का मिश्रण हो सकते हैं' is also less concise than the reference sentence, making it feel less fluid.",
+        "confidence": 85.0
+    },
+    "terminologyStage1": {
+        "probability": 0.7,
+        "reason": "The term 'उप-संस्कृति' is used in the MT, while the reference uses 'उपसंस्कृति' without the hyphen. Additionally, 'भूगोल' is used in the MT, whereas the reference uses 'भौगोलिक', which is more contextually appropriate as it refers to geographical characteristics rather than just geography itself. This inconsistency in terminology suggests a higher probability of terminology errors.",
+        "confidence": 80.0
+    },
+    "styleStage1": {
+        "probability": 0.7,
+        "reason": "The phrase 'किसी उप-संस्कृति को अलग बनाते हैं' is somewhat awkward and less formal compared to the reference sentence's 'उपसंस्कृति को विशिष्ट रूप से निर्धारित करने वाले गुण'. The use of 'अलग बनाते हैं' lacks the precision and academic tone present in the reference, which may be more suitable for the context.",
+        "confidence": 85.0
+    },
+    "addition": {
+        "reEvaluatedProb": 0.2,
+        "thoughtsOnStage1": "Stage-1 is not fully supported as the addition of 'किसी उप-संस्कृति को अलग बनाते हैं' does not introduce new meaning but rather rephrases the original idea.",
+        "reason": "The MT does not add any new meaning; it paraphrases the source without introducing additional concepts or ideas. The phrase 'किसी उप-संस्कृति को अलग बनाते हैं' is a rephrasing of the source's intent rather than an addition.",
+        "reEvaluatedConfidence": 60.0,
+        "errorSpanStart": 0,
+        "errorSpanEnd": 30,
+        "errorSpanText": "किसी उप-संस्कृति को अलग बनाते हैं"
+    },
+    "omission": {
+        "reEvaluatedProb": 0.2,
+        "thoughtsOnStage1": "Stage-1 is not fully supported as the omission is not clear.",
+        "reason": "The MT does not omit any key elements from the source. It conveys the overall meaning, even if the phrasing differs. The phrase 'किसी उप-संस्कृति को अलग बनाते हैं' captures the essence of the source without omitting any significant information.",
+        "reEvaluatedConfidence": 60.0,
+        "errorSpanStart": null,
+        "errorSpanEnd": null,
+        "errorSpanText": null
+    },
+    "mistranslation": {
+        "reEvaluatedProb": 0.4,
+        "thoughtsOnStage1": "I partially agree with the previous agent's evaluation.",
+        "reason": "The MT phrase 'किसी उप-संस्कृति को अलग बनाते हैं' translates to 'makes a subculture distinct', which shifts the focus from 'qualities that determine' to 'makes distinct'. This semantic shift indicates a mistranslation as it alters the meaning of the source sentence.",
+        "reEvaluatedConfidence": 75.0,
+        "errorSpanStart": 15,
+        "errorSpanEnd": 41,
+        "errorSpanText": "किसी उप-संस्कृति को अलग बनाते हैं"
+    },
+    "untranslated_text": {
+        "reEvaluatedProb": 0.0,
+        "thoughtsOnStage1": "Stage-1 is not supported.",
+        "reason": "The machine translated sentence does not contain any untranslated text from the source. All terms are translated appropriately into Hindi, including the concepts of linguistic, aesthetic, religious, political, sexual, geographical, and combination of factors. There are no segments that remain in the source language without justification.",
+        "reEvaluatedConfidence": 100.0,
+        "errorSpanStart": null,
+        "errorSpanEnd": null,
+        "errorSpanText": null
+    },
+    "transliteration": {
+        "reEvaluatedProb": 0.0,
+        "thoughtsOnStage1": "Stage-1 is not supported.",
+        "reason": "There are no transliteration errors present in the MT. All terms that should be in the target script are correctly converted, and there are no named entities or proper nouns left in the source/Latin script.",
+        "reEvaluatedConfidence": 100.0,
+        "errorSpanStart": null,
+        "errorSpanEnd": null,
+        "errorSpanText": null
+    },
+    "non_translation": {
+        "reEvaluatedProb": 0.1,
+        "thoughtsOnStage1": "Stage-1 is not supported.",
+        "reason": "The machine translated sentence conveys the same overall meaning as the source sentence, focusing on the qualities that define a subculture. The differences noted by the previous agent do not constitute a lack of translation, as the essence of the original message is preserved. The phrase 'किसी उप-संस्कृति को अलग बनाते हैं' can be interpreted as a valid translation of 'determine a subculture as distinct'.",
+        "reEvaluatedConfidence": 80.0,
+        "errorSpanStart": null,
+        "errorSpanEnd": null,
+        "errorSpanText": null
+    },
+    "punctuation": {
+        "reEvaluatedProb": 0.0,
+        "thoughtsOnStage1": "Stage-1 is not supported.",
+        "reason": "There are no punctuation errors in the machine translated sentence. The punctuation used is appropriate and matches the structure of the source and reference sentences.",
+        "reEvaluatedConfidence": 100.0,
+        "errorSpanStart": null,
+        "errorSpanEnd": null,
+        "errorSpanText": null
+    },
+    "spelling": {
+        "reEvaluatedProb": 0.0,
+        "thoughtsOnStage1": "Stage-1 is not supported.",
+        "reason": "There are no spelling errors in the machine translated sentence. The terms used are correctly spelled in Hindi, and the evaluation focused on fluency rather than spelling mistakes.",
+        "reEvaluatedConfidence": 100.0,
+        "errorSpanStart": null,
+        "errorSpanEnd": null,
+        "errorSpanText": null
+    },
+    "grammar": {
+        "reEvaluatedProb": 0.0,
+        "thoughtsOnStage1": "Stage-1 is not supported.",
+        "reason": "The previous agent's evaluation focused on fluency and awkwardness rather than identifiable grammatical errors. The MT sentence does not contain clear grammatical errors in terms of agreement, tense, word order, syntax, or sentence structure. The phrases used are grammatically correct, even if they may not be the most fluent or natural in context.",
+        "reEvaluatedConfidence": 0.0,
+        "errorSpanStart": null,
+        "errorSpanEnd": null,
+        "errorSpanText": null
+    },
+    "register": {
+        "reEvaluatedProb": 0.0,
+        "thoughtsOnStage1": "Stage-1 is not supported.",
+        "reason": "The tone and formality of the machine translated sentence match the source context. There are no clear mismatches in level of formality or tone. The translation maintains a similar level of academic formality as the source.",
+        "reEvaluatedConfidence": 100.0,
+        "errorSpanStart": null,
+        "errorSpanEnd": null,
+        "errorSpanText": null
+    },
+    "inconsistency": {
+        "reEvaluatedProb": 0.0,
+        "thoughtsOnStage1": "Stage-1 is not supported.",
+        "reason": "There is no internal inconsistency in the MT itself. The terms used in the MT are consistent with each other, and the translation maintains a coherent meaning throughout.",
+        "reEvaluatedConfidence": 100.0,
+        "errorSpanStart": null,
+        "errorSpanEnd": null,
+        "errorSpanText": null
+    },
+    "characterEncoding": {
+        "reEvaluatedProb": 0.0,
+        "thoughtsOnStage1": "Stage-1 is not supported.",
+        "reason": "The machine translated sentence is fully readable and correctly encoded in Hindi. There are no corrupted characters, unreadable symbols, or encoding artifacts present in the MT output. The previous agent's evaluation focused on fluency issues rather than character encoding errors, which is not relevant to the assigned subtype.",
+        "reEvaluatedConfidence": 100.0,
+        "errorSpanStart": null,
+        "errorSpanEnd": null,
+        "errorSpanText": null
+    },
+    "inappropriate_for_context": {
+        "reEvaluatedProb": 0.8,
+        "thoughtsOnStage1": "The evaluation of the previous agent is partially supported, particularly regarding the term 'भौगोलिक' being more appropriate than 'भूगोल'. However, the concern about 'उप-संस्कृति' versus 'उपसंस्कृति' is less significant in terms of terminology appropriateness.",
+        "reason": "The term 'भौगोलिक' is indeed more suitable in this context as it relates to geographical characteristics, while 'भूगोल' is a more general term for geography. This indicates a clear inappropriate terminology error. The hyphen in 'उप-संस्कृति' is less critical and does not significantly impact the meaning in this context.",
+        "reEvaluatedConfidence": 85.0,
+        "errorSpanStart": 66,
+        "errorSpanEnd": 73,
+        "errorSpanText": "भूगोल"
+    },
+    "inconsistency_use": {
+        "reEvaluatedProb": 0.3,
+        "thoughtsOnStage1": "Stage-1 is not fully supported.",
+        "reason": "The term 'उप-संस्कृति' appears only once in the MT and the reference, so there is no inconsistency. The term 'भूगोल' is indeed used in the MT, but it is not a direct inconsistency with 'भौगोलिक' since they refer to different aspects (geography vs. geographical). Therefore, the previous agent's evaluation of a higher probability is not justified.",
+        "reEvaluatedConfidence": 50.0,
+        "errorSpanStart": null,
+        "errorSpanEnd": null,
+        "errorSpanText": null
+    },
+    "awkward": {
+        "reEvaluatedProb": 0.8,
+        "thoughtsOnStage1": "Stage-1 is supported.",
+        "reason": "The phrase 'किसी उप-संस्कृति को अलग बनाते हैं' indeed feels awkward and less formal compared to the reference. The reference uses 'उपसंस्कृति को विशिष्ट रूप से निर्धारित करने वाले गुण', which is more precise and academic. The awkwardness arises from the informal tone of 'अलग बनाते हैं' versus the more formal 'विशिष्ट रूप से निर्धारित करने वाले'.",
+        "reEvaluatedConfidence": 90.0,
+        "errorSpanStart": 20,
+        "errorSpanEnd": 42,
+        "errorSpanText": "किसी उप-संस्कृति को अलग बनाते हैं"
+    },
+    "accuracyStage3": {
+        "consistencyScore": 60.0,
+        "errorsExists": "YES",
+        "existanceReasoning": "There is a supported error regarding the mistranslation of the phrase 'किसी उप-संस्कृति को अलग बनाते हैं', which shifts the focus from 'qualities that determine' to 'makes distinct'. This semantic shift indicates a mistranslation as it alters the meaning of the source sentence."
+    },
+    "fluencyStage3": {
+        "consistencyScore": 85.0,
+        "errorsExists": "YES",
+        "existanceReasoning": "The Stage-1 evaluation identified fluency issues in the machine translated sentence, which were supported by the subtype evaluations that focused on fluency and awkwardness. The agents consistently noted that while there are no grammatical, spelling, or punctuation errors, the overall fluency is affected by awkward phrasing and less common word choices."
+    },
+    "terminologyStage3": {
+        "consistencyScore": 65.0,
+        "errorsExists": "YES",
+        "existanceReasoning": "There is a supported error regarding the use of 'भूगोल' instead of 'भौगोलिक', which is confirmed by multiple agents. The inconsistency in terminology is significant enough to indicate an error."
+    },
+    "styleStage3": {
+        "consistencyScore": 85.0,
+        "errorsExists": "YES",
+        "existanceReasoning": "Both the Stage-1 evaluation and the subcategory evaluations identify the phrase 'किसी उप-संस्कृति को अलग बनाते हैं' as awkward and less formal compared to the reference sentence. This consistent identification of the same error across evaluations supports the existence of the error."
+    },
+    "cross_reasoning": {
+        "dropped_errors": [
+            "addition",
+            "omission",
+            "untranslated_text",
+            "transliteration",
+            "non_translation",
+            "punctuation",
+            "spelling",
+            "grammar",
+            "register",
+            "inconsistency",
+            "characterEncoding",
+            "inconsistency_use"
+        ],
+        "retained_errors": [
+            "mistranslation",
+            "inappropriate_for_context",
+            "awkward"
+        ],
+        "reasoning": "The errors 'addition' and 'omission' were dropped as they lack strong support and do not indicate significant issues. The 'mistranslation' is retained due to clear evidence of a semantic shift. 'inappropriate_for_context' is kept as it highlights the use of 'भूगोल' instead of the more appropriate 'भौगोलिक'. 'awkward' is retained as it reflects the less formal phrasing in the MT compared to the reference."
+    },
+    "aggregation": {
+        "accuracy_error": 0.24000000000000005,
+        "fluency_error": 0.0,
+        "terminology_error": 0.52,
+        "style_error": 0.68,
+        "overall_error_probability": 0.268,
+        "final_quality_score_100": 73.2
+    }
+}

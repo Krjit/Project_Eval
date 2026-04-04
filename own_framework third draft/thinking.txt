@@ -1,0 +1,32 @@
+errors in IndicMT but not in this framework (not there in HiMATE as well)
+* Transliteration
+* source_error
+* Other
+* Non-Translation  
+
+errors in HiMATE but not there in this framework (not there in IndicMT dataset as well)
+* Name_format
+* Date_format
+* Time_format
+* Currency_format
+* Address_format
+* Telephone_format
+
+
+
+Need to include Error spans, but where?    ----> stage 2 --------> need to add this
+
+Need to add check for missing errors....
+
+Need to rerun the model for rechecking....      -----------------> need to add this
+
+include severity in score calculation?
+
+add cross-error reasoning? (some error can lead to other errors, so can remove the redundant ones and adjust probabilites)  -----------> need to add this
+
+finally add softmax on all probabilites
+
+add lightweight rule based priors???????/
+
+
+awkward is there in both fluency and style which needs to be checked and corrected.
